@@ -7,12 +7,14 @@ I am a passionate web developer with a keen interest in building efficient and s
 I am currently focusing on enhancing my web development skills, particularly in **React** and **Express**. I am committed to continuous learning and staying updated with the latest technologies.
 
 ## 💻 Technologies
-- **Languages:** HTML, CSS, JavaScript,Typescript,Nextjs
-- **Frameworks:** React, Express
+- **Languages:** HTML, CSS, JavaScript,Typescript;
+- **Library:** React, Express
 - **Databases:** MongoDB, SQL
+- **Extra:** Wordpress Development, Shopify Development, 
 
 ## 💞️ Collaboration
 I am open to collaborating on exciting web development projects and contributing to open-source initiatives. If you share a similar passion for technology, let's connect and explore potential collaborations!
+
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via email: [mahrarahul80@gmail.com](mailto:mahrarahul80@gmail.com).
